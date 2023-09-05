@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Keyboard Layout
+Comment=Preview keyboard layouts
+Icon=org.mate.KeyboardLayout
+Exec=matekbd-keyboard-display
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=true
+Categories=MATE;GTK;Core;System;
+OnlyShowIn=MATE;
