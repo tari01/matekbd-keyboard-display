@@ -32,6 +32,7 @@ pkg_check_modules (DEPS REQUIRED libxklavier gtk+-3.0 libmatekbdui atk)
 
 add_subdirectory (src)
 add_subdirectory (data)
+add_subdirectory (man)
 
 # Info
 
